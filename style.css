@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    width: 80%;
+    margin: 100px auto;
+    font-size: 200%;
+}
+
+select {
+    font-size: inherit;
+}
